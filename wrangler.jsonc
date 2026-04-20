@@ -2,5 +2,5 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "cf-fetch-proxy",
   "main": "src/index.ts",
-  "compatibility_date": "2026-04-20",
+  "compatibility_date": "2025-03-20",
 }
